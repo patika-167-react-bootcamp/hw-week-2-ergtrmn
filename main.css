@@ -179,7 +179,7 @@ label{
         margin-right: 15px;
         border-radius: 5px;
         border: none;
-        border-bottom: 1px solid #444;
+        border-bottom: 1px solid rgb(221, 218, 27);
     }
     
     .input:focus{
